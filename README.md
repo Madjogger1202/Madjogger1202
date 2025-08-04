@@ -17,9 +17,6 @@
 
 
 
-
-
-
 ****˙✧˖°📷 ༘ ⋆｡˚ I have a bunch of projects on my kinda landing page here˙✧˖°📷 ༘ ⋆｡˚**** https://madjogger.notion.site/656cc937f4074dd89f5f39d0a024b2e6?pvs=4
 
 **You can find there some of my ideas and current projects**
