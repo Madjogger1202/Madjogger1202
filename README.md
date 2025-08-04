@@ -2,6 +2,7 @@
 # <img src="Electronics.svg" alt="Описание иконки" width="28" height="28" /> 10 YEARS IN EMBEDDED <img src="Electronics.svg" alt="Описание иконки" width="30" height="30" />           
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madjogger1202&theme=highcontrast" alt="Profile Card" width="100%" />
 
+![](https://komarev.com/ghpvc/?username=Madjogger1202)
 
 
 
