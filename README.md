@@ -1,6 +1,6 @@
 ![alt text](header.png)
 # <img src="Electronics.svg" alt="Описание иконки" width="28" height="28" /> 10 YEARS IN EMBEDDED <img src="Electronics.svg" alt="Описание иконки" width="30" height="30" />           
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madjogger1202&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madjogger1202&theme=highcontrast)
 
 
 
