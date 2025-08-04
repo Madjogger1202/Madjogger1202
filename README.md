@@ -1,6 +1,10 @@
 ![alt text](header.png)
-<img src="Electronics.svg" alt="Описание иконки" width="20" height="20" />
-10 ʏᴇᴀʀꜱ ɪɴ ᴇᴍʙᴇᴅᴅᴇᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+# <img src="Electronics.svg" alt="Описание иконки" width="28" height="28" /> 10 YEARS IN EMBEDDED <img src="Electronics.svg" alt="Описание иконки" width="30" height="30" />           
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madjogger1202&theme=gruvbox)
+
+
+
+
 
 ****˙✧˖°📷 ༘ ⋆｡˚ I have a bunch of projects on my kinda landing page here˙✧˖°📷 ༘ ⋆｡˚**** https://madjogger.notion.site/656cc937f4074dd89f5f39d0a024b2e6?pvs=4
 
