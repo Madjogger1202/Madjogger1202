@@ -108,6 +108,27 @@
 </table>
 
 
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 35%; white-space: normal; word-wrap: break-word; vertical-align: top;">
+      <img src="image-1.png" alt="Описание иконки" width="15" height="15" /> PCB:
+      <br />
+      Поддержка переноса текста для длинных подписей в этой ячейке.
+    </td>
+    <td style="width: 35%; white-space: normal; word-wrap: break-word; vertical-align: top;">
+      <img src="https://img.shields.io/badge/KiCAD-8?logo=kicad&color=%2300008B" alt="KiCAD" width="150" />
+      <img src="https://img.shields.io/badge/Altium-8?logo=altiumdesigner&color=%23B22222" alt="Altium" width="150" />
+      <img src="https://img.shields.io/badge/Cadence-8?logo=allegro&color=%2332CD32" alt="Cadence" width="150" />
+      <img src="https://img.shields.io/badge/EasyEDA-8?logo=easyeda&color=%2300FFFF" alt="EasyEDA" width="150" />
+    </td>
+    <td rowspan="4" style="width: 30%; vertical-align: top;">
+      <img src="image-5.png" alt="Fusion360" width="300" />
+    </td>
+  </tr>
+  <!-- Остальные строки -->
+</table>
+
+
 ****˙✧˖°📷 ༘ ⋆｡˚ I have a bunch of projects on my kinda landing page here˙✧˖°📷 ༘ ⋆｡˚**** https://madjogger.notion.site/656cc937f4074dd89f5f39d0a024b2e6?pvs=4
 
 **You can find there some of my ideas and current projects**
