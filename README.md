@@ -7,7 +7,7 @@
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td width="90">
+    <td width="100">
       <img src="image-1.png" alt="Описание иконки" width="15" height="15" /> <strong>PCB:</strong>
     </td> 
     <td>
@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/EasyEDA-8?logo=easyeda&color=%2300FFFF" alt="EasyEDA" />
     </td>
     <td rowspan="4">
-      <img src="image-5.png" alt="Fusion360" width="290" height="250" />
+      <img src="image-5.png" alt="Fusion360" width="235" height="200" />
     </td>
   </tr>
   <tr>
