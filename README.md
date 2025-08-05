@@ -18,7 +18,7 @@
     </td>
     <td rowspan="4">
       <img src="image-5.png" alt="Fusion360" width="235" height="200" />
-    </td>
+    </td>  
   </tr>
   <tr>
     <td>
